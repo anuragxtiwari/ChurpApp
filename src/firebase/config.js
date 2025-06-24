@@ -6,11 +6,11 @@ import { getFirestore } from "firebase/firestore";
 // ⛔ Replace with your actual Firebase config values from your Firebase Console
 const firebaseConfig = {
   apiKey: "your-api-key",
-  authDomain: "churpapp.firebaseapp.com",
-  projectId: "churpapp",
-  storageBucket: "churpapp.appspot.com",
+  authDomain: "your-auth-domain",
+  projectId: "your-project-id",
+  storageBucket: "your-storage-bucket",
 //   messagingSenderId: "YOUR_SENDER_ID",
-  appId: "churpapp"
+  appId: "your-app-id"
 };
 
 // ✅ Initialize Firebase
