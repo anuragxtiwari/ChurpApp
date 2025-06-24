@@ -11,6 +11,7 @@ const firebaseConfig = {
   storageBucket: "churpapp.appspot.com",
 //   messagingSenderId: "YOUR_SENDER_ID",
   appId: "churpapp"
+  appId: "churpapp"
 };
 
 // ✅ Initialize Firebase
