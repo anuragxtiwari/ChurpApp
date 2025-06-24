@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 // ⛔ Replace with your actual Firebase config values from your Firebase Console
 const firebaseConfig = {
-  apiKey: "AIzaSyArGcaXBxbPIq9up88Nge7cWhGGIaUYbNo",
+  apiKey: "your-api-key",
   authDomain: "churpapp.firebaseapp.com",
   projectId: "churpapp",
   storageBucket: "churpapp.appspot.com",
