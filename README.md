@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-> link to demo
+> [link to demo](https://anuragxtiwari.github.io/ChurpApp/)
 
 ---
 
