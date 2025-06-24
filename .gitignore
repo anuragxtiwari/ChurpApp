@@ -33,3 +33,4 @@ coverage/
 *.njsproj
 *.sln
 *.sw?
+src/firebase/config.js
