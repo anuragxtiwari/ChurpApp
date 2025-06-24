@@ -12,7 +12,12 @@ dist/
 dist-ssr
 *.local
 .env
+
 build/
+
+# Firebase config (DO NOT TRACK)
+src/firebase/config.js
+
 firebase-debug.log
 .firebaserc
 
